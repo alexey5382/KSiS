@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Bsuir\\2y\\4s\\KSiS\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD38F486-B7CF-4C9C-919F-BEA356C512EC}|Lab2.vcxproj|D:\\Users\\Bsuir\\2y\\4s\\KSiS\\Lab2\\my_tracert.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD38F486-B7CF-4C9C-919F-BEA356C512EC}|Lab2.vcxproj|solutionrelative:my_tracert.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "my_tracert.cpp",
+              "DocumentMoniker": "D:\\Users\\Bsuir\\2y\\4s\\KSiS\\Lab2\\my_tracert.cpp",
+              "RelativeDocumentMoniker": "my_tracert.cpp",
+              "ToolTip": "D:\\Users\\Bsuir\\2y\\4s\\KSiS\\Lab2\\my_tracert.cpp*",
+              "RelativeToolTip": "my_tracert.cpp*",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAowLQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-09T17:18:38.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

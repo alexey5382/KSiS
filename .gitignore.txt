@@ -1,0 +1,10 @@
+# Visual Studio временные файлы
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.exe
+*.pdb
+*.obj
+*.log
