@@ -7,7 +7,7 @@ namespace Lab5
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            builder.WebHost.UseUrls("http://localhost:5000");
+            builder.WebHost.UseUrls("http://0.0.0.0:5000");
             builder.Services.AddSingleton<StorageService>();
 
             var app = builder.Build();
